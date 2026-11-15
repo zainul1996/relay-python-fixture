@@ -1,0 +1,5 @@
+[project]
+name = "relay-python-fixture"
+version = "0.1.0"
+description = "Minimal Python project for the Relay live corpus"
+requires-python = ">=3.10"
